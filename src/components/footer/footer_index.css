@@ -1,0 +1,38 @@
+.footer_cnt
+{
+    width: 72.355%;
+    background-color: #201f1f;
+    height: 0%;
+    display: flex;
+    padding: 2.3%;
+    float: right;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+
+
+.footer_icons{
+    display: inline;
+    margin:20px
+    
+    }
+    .footer_icons a .icon{
+        font-size: 28px;
+        width: 52px;
+        color: white;
+        
+    }
+    .footer_icons a .icon:hover{
+        color: rgba(218, 217, 217, 0.742);
+    }
+    .footer_icons a{
+        text-decoration: none;
+    }
+    .footer_main_cnt{
+        box-shadow:  20px 0px 20px 3px rgb(53, 53, 53);
+    }
+    
+    
